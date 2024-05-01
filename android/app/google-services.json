@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "208364611932",
+    "project_id": "specathon",
+    "storage_bucket": "specathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208364611932:android:4282c0ea35153de4a53999",
+        "android_client_info": {
+          "package_name": "com.example.specathon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1_uvU1fLAHUCWtSC9pe-OqoKI_8vfRf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

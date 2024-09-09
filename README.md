@@ -44,7 +44,7 @@ The core aspiration of the "Eco Connect" initiative is to craft a dynamic mobile
 ![Login/Signup](image.png)
 ![Home/Calculator](image-1.png)
 ![Chat/Challenges](image-2.png)
-![Tips/Credits](image-3.png)
+
 
 
 ## Contributing

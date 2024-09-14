@@ -5,7 +5,7 @@ Welcome to Eco Connect, your one-stop destination for embracing a sustainable li
 ## Table of Contents
 - [Introduction](#introduction)
 - [Key Features](#key-features)
-- [Contributing](#contributing)
+- [Contributors](#contributors)
 
 ## Introduction
 
@@ -47,7 +47,7 @@ The core aspiration of the "Eco Connect" initiative is to craft a dynamic mobile
 
 <br>
 
-## 03. Contributors 👻
+## Contributors
 
 <table>
     <tbody>

@@ -45,8 +45,33 @@ The core aspiration of the "Eco Connect" initiative is to craft a dynamic mobile
 ![Home/Calculator](image-1.png)
 ![Chat/Challenges](image-2.png)
 
+<br>
 
+## 03. Contributors 👻
 
-## Contributing
-
-We welcome contributions from the community to make Eco Connect even better
+<table>
+    <tbody>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/nikunjk9/">
+                    <img src="https://avatars.githubusercontent.com/u/140910919?v=4" width="100px;" alt="Nikunj Kumar"/>
+                    <br />
+                    <sub><b>Nikunj Kumar</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/Shru143/">
+                    <img src="https://avatars.githubusercontent.com/u/100761535?v=4" width="100px;" alt="Shruti Chadwal"/>
+                    <br />
+                    <sub><b>Shruti Chadwal</b></sub>
+                </a>
+              <td align="center">
+                <a href="https://github.com/kxpil09/">
+                    <img src="https://avatars.githubusercontent.com/u/99945815?v=4" width="100px;" alt="Kapil Kukreja"/>
+                    <br />
+                    <sub><b>Kapil Kukreja</b></sub>
+                </a>
+            </td>
+         </tr>
+    </tbody>
+</table>

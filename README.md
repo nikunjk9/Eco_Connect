@@ -1,6 +1,6 @@
 # Eco Connect - Comprehensive Sustainability Platform
 
-Welcome to `Eco Connect`, your one-stop destination for embracing a sustainable lifestyle and making a positive impact on the environment. This dynamic mobile application, built using Flutter and Firebase, is designed to empower users like you to lead eco-conscious lives by offering a wide range of features and utilities. Whether you're looking to reduce your carbon footprint, discover sustainable products and services, connect with a community of like-minded individuals, or contribute to environmental causes, Eco Connect has got you covered.
+Welcome to `Eco Connect`, your one-stop destination for embracing a sustainable lifestyle and making a positive impact on the environment. This dynamic mobile application, built using `Flutter` and `Firebase`, is designed to empower users like you to lead eco-conscious lives by offering a wide range of features and utilities. Whether you're looking to reduce your carbon footprint, discover sustainable products and services, connect with a community of like-minded individuals, or contribute to environmental causes, Eco Connect has got you covered.
 
 ## Table of Contents
 - [Introduction](#introduction)
